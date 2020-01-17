@@ -1,8 +1,7 @@
 ### Personal Information
 #### Name: Changlong Li
 #### Age: 23
-#### Institution: 
-School of Mechanical Engineering, Beijing Institute of Technology, Beijing, China
+#### Institution: School of Mechanical Engineering, Beijing Institute of Technology, Beijing, China
 #### Education Background: 
 - B.S., School of Mechanical Engineering, Hunan University, Hunan, China
 - M.S., School of Mechanical Engineering, Beijing Institute of Technology, Beijing, China
