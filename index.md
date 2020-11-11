@@ -12,5 +12,5 @@
 3. Vehicle engineering
 
 ### Personal CV: 
-- 
+- https://github.com/lclkent/lclkent.github.io/blob/master/CV-KentLi.pdf
 
